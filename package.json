@@ -1,0 +1,19 @@
+{
+  "name": "chatroom-with-nodejs",
+  "version": "1.0.0",
+  "description": "This is a Node.js implementation of a TCP-based chatroom. The chatroom allows multiple clients to connect to a server, join a chat session, and communicate with each other through text messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tambeani/chatroom-with-nodejs.git"
+  },
+  "author": "aniruddha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tambeani/chatroom-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/tambeani/chatroom-with-nodejs#readme"
+}
